@@ -1,0 +1,61 @@
+body {
+background-color:green;
+font-size: 30px;
+}
+
+#container {
+width: 215px;
+height: 190px;
+color: #000000;
+background-color: white;
+padding: 5px;
+}
+
+#container2 {
+width: 215px;
+height: 190px;
+color: #000000;
+font-weight: bold;
+background-color: white;
+padding: 50px;
+margin: 50px;
+opacity: 0.4;
+}
+
+#orangebox {
+width: 400px;
+height: 400px;
+background-color: orange;
+position: absolute;
+left: 100px;
+top: 700px;
+transform: rotate(30deg);
+}
+
+#redbox {
+width: 400px;
+height: 400px;
+background-color: red;
+position: absolute;
+left: 100px;
+top: 900px;
+transform: rotate(90deg);
+opacity: 0.24;
+}
+
+#hello {
+color: blue;
+}
+
+#pinkbox {
+width: 100px;
+height: 200px;
+background-color: black;
+position: relative;
+right:900px;
+top: 900px;
+transform: skewX(25deg);
+}
+
+
+
